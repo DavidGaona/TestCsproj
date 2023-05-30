@@ -13,6 +13,7 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Corona</RootNamespace>
     <AssemblyName>Corona</AssemblyName>
+    <TargetFramework>net48</TargetFramework>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
